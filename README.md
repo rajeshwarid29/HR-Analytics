@@ -1,4 +1,4 @@
-# HR-Analysis
+# HR-Analytics
 
 **Context**
 The task was to analyze a comprehensive HR dataset to gain insights into workforce dynamics, job satisfaction, career progression, and retention rates.
