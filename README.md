@@ -1,5 +1,9 @@
 # HR-Analytics
 
+![HR DASHBOARD](https://github.com/user-attachments/assets/7ead683f-b133-4839-8f72-a1f99576c4f3)
+
+![EMPLOYEE DASHBOARD](https://github.com/user-attachments/assets/9cd51e97-cfee-4320-b07f-fbcc8dca19b8)
+
 **Objective:**
 The task was to analyze a comprehensive HR dataset to gain insights into workforce dynamics, job satisfaction, career progression, and retention rates.
 
